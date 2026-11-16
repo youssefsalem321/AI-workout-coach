@@ -1,0 +1,4 @@
+# Optional: squat form analysis (heavy). Install only where you need the Form check tab.
+mediapipe>=0.10.14
+opencv-python-headless>=4.9
+numpy>=1.26
